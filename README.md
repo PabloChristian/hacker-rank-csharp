@@ -1,4 +1,4 @@
-<p align="center">
+<p>
     <a href="https://www.hackerrank.com/helder">
         <img height=50 src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png">
     </a>
